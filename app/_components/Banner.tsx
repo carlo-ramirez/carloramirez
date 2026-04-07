@@ -51,17 +51,17 @@ const Banner = () => {
             >
                 <div className="max-md:grow max-md:flex flex-col justify-center items-start max-w-[544px]">
                     <h1 className="banner-title slide-up-and-fade leading-[.95] text-6xl sm:text-[80px] font-anton">
-                        <span className="text-primary">WEB DESIGN &</span>
-                        <br /> <span className="ml-4">FRONTEND DEVELOPER</span>
+                        <span className="text-primary">SENIOR</span>
+                        <br /> <span className="ml-4">WEB DEVELOPER</span>
                     </h1>
                     <p className="banner-description slide-up-and-fade mt-6 text-lg text-muted-foreground">
                         Hi! I&apos;m{' '}
                         <span className="font-medium text-foreground">
                             Carlo Ramirez
                         </span>
-                        . A Web Design & Frontend Developer with 8+ years of
-                        experience building high-performance, scalable, and
-                        responsive websites and landing pages.
+                        . A Senior Web Developer with 8+ years of
+                        experience building high-performing WordPress websites
+                        and visually compelling marketing assets.
                     </p>
                     <Button
                         as="button"

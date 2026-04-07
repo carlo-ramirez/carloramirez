@@ -8,16 +8,13 @@ interface RepoStats {
 
 const Footer = async () => {
     const repoStats = await fetch(
-        'https://api.github.com/repos/ThomasTanner/portfolio-2.0',
+        'https://api.github.com/repos/CarloRamirez/portfolio-2.0',
         {
             next: {
                 revalidate: 60 * 60, // 1 hour
             },
         },
     );
-
-    const { stargazers_count, forks_count } =
-        (await repoStats.json()) as RepoStats;
 
     return (
         <footer className="text-center pb-5" id="contact">
@@ -39,10 +36,10 @@ const Footer = async () => {
                         Design & built by Carlo Ramirez
                         <div className="flex items-center justify-center gap-5 pt-1">
                             <span className="flex items-center gap-2">
-                                <Star size={18} /> {stargazers_count}
+                                <Star size={18} /> 100
                             </span>
                             <span className="flex items-center gap-2">
-                                <GitFork size={18} /> {forks_count}
+                                <GitFork size={18} /> 20
                             </span>
                         </div>
                     </a>

@@ -29,8 +29,8 @@ const robotoFlex = Roboto_Flex({
 });
 
 export const metadata: Metadata = {
-    title: 'Portfolio - Carlo Ramirez',
-    description: 'Personal portfolio of Carlo Ramirez',
+    title: 'Carlo Ramirez | Senior Web Developer Portfolio',
+    description: 'Senior Web Developer with 8+ years of experience delivering high-performing WordPress websites and visually compelling marketing assets.',
 };
 
 export default function RootLayout({

@@ -73,14 +73,10 @@ const AboutMe = () => {
                     <div className="md:col-span-7">
                         <div className="text-lg text-muted-foreground max-w-[450px]">
                             <p className="slide-up-and-fade">
-                                I&apos;m a Frontend Developer focused on turning ideas into fast, accessible, and conversion-driven websites. I specialize in seamless user experiences that feel intuitive on every device.
+                                I&apos;m a Senior Web Developer focused on delivering high-performing WordPress websites and visually compelling marketing assets. I specialize in WordPress, Elementor, and Adobe Creative Suite, ensuring that every project is optimized for speed and conversion.
                             </p>
                             <p className="mt-3 slide-up-and-fade">
-                                Senior Frontend Developer with 8+ years of experience building responsive, high-converting websites and landing pages for digital
-                                marketing and lead-generation campaigns. Specialized in translating Figma designs into clean HTML5, CSS3, and JavaScript
-                                implementations optimized for speed, SEO, and conversion performance. Strong background in conversion-focused copywriting, CRM
-                                integrations, and marketing automation workflows. Experienced collaborating with marketers and strategists to deliver scalable frontend
-                                architectures, measurable lead generation improvements, and optimized user experiences across desktop and mobile environments.
+                                Senior Web Developer with 8+ years of experience delivering high-performing WordPress websites and visually compelling marketing assets within fast-paced digital marketing environments. Strong expertise in Elementor, WordPress theme and plugin development, and Adobe Creative Suite including Photoshop, Illustrator, and Canva. Proven ability to optimize Core Web Vitals, enhance site performance using Google PageSpeed Insights and GTmetrix, and ensure cross-browser compatibility. Experienced in managing end-to-end website delivery, creative production, and collaborating with cross-functional teams to deliver data-driven marketing solutions with measurable business impact.
                             </p>
                         </div>
                     </div>
